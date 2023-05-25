@@ -8,8 +8,11 @@
 
 ###
 
-<p align="left">A weebs who simping to Loli And Mommy</p>
+<h3 align="center">A weebs who simping to Loli And Mommy</h3>
 
+###
+
+<img src="https://raw.githubusercontent.com/MapleKaedee/MapleKaedee/output/snake.svg" alt="Snake animation" />
 
 ###
 
