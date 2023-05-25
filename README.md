@@ -10,9 +10,6 @@
 
 <p align="left">A weebs who simping to Loli And Mommy</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/MapleKaedee/MapleKaedee/output/snake.svg" alt="Snake animation" />
 
 ###
 
