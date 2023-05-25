@@ -20,3 +20,15 @@
 </div>
 
 ###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://t.me/honjoukaedee" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+## Activity
+[![Discord Presence](https://lanyard.cnrad.dev/api/448338199199219714)](https://discord.com/users/448338199199219714)
