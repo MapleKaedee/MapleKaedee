@@ -1,10 +1,5 @@
 <h1 align="center">Welcome To My GitHub Pages</h1>
 
-###
-
-<div align="center">
-  <img height="800" src="https://github.com/MapleKaedee/MapleKaedee/assets/90943057/d0031d15-8e56-49db-8a4c-05b30c17dcf4"  />
-</div>
 
 ###
 
