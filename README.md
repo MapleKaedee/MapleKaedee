@@ -15,12 +15,6 @@
 ### Language and Tools:
 <p>
     <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-        alt="PHP"
-        width="40"
-        height="40"
-    />
-    <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
         alt="VueJs"
         width="40"
