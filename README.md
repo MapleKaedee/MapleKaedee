@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">A weebs who simping to Loli And Mommy</h3>
+<h3 align="center">A weebs who simping to Loli</h3>
 
 ### Connect With Me:
 <p>
@@ -13,7 +13,7 @@
 </p>
 
 # 💻 Tech Stack:
- ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+ ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GO](https://img.shields.io/badge/GO-00758D?style=for-the-badge&logo=go&logoColor=white)
 
 ## Activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/448338199199219714)](https://discord.com/users/448338199199219714)
