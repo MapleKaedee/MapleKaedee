@@ -1,5 +1,5 @@
 <h1 align="center">いらっしゃいませ</h1>
-<h3 align="center">Nuur Wahid Saifullah is My Name</h3>
+<h3 align="center">My Name is Nuur Wahid Saifullah</h3>
 
 
 ###
