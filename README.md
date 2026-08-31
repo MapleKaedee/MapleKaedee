@@ -13,7 +13,6 @@
 </p>
 
 # 💻 Tech Stack:
- ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GO](https://img.shields.io/badge/GO-00758D?style=for-the-badge&logo=go&logoColor=white)
-
+ ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## Activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/1419755028348014595?bg=462C7D&borderRadius=30px&idleMessage=Lazy&theme=dark)](https://discord.com/users/1419755028348014595)
